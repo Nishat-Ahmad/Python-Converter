@@ -1,7 +1,5 @@
 # Converter and Calculator
 
-#### Video Demo:  https://www.youtube.com/watch?v=efXLo2mEh8s
-
 #### Description:
 
 **angle.py** contains 6 functions that contain the logic of conversion between degree, radian and gradian. The 6 seperate functions achive this goal and they are very well documented. The fuctions take one value and return a value in float.

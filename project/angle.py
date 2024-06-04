@@ -1,6 +1,6 @@
 def degree_to_radian(degree: float) -> float:
     """
-    Description: converts degree to radians
+    Description: converts degree to radians 
     :param degree: this value is converted to raidan
     :type degree: float
     :raise TypeError: when the parameter is not float

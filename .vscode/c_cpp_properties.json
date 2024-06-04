@@ -4,7 +4,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:\\SFML-2.6.1\\include"
+                "C:\\Users\\HP\\Documents\\libraries\\SFML-2.6.1\\include"
             ],
             "defines": [
                 "_DEBUG",
